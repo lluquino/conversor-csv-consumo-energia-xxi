@@ -1,0 +1,4 @@
+com.energiaxxi.conversor.test.app-androidTest-0 C:\Users\lluqu\Documents\Proyectos\ConversorCSVEnergiaXXI\Android\app\build\generated\res\resValues\androidTest\debug
+com.energiaxxi.conversor.test.app-mergeDebugAndroidTestResources-1 C:\Users\lluqu\Documents\Proyectos\ConversorCSVEnergiaXXI\Android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.energiaxxi.conversor.test.app-mergeDebugAndroidTestResources-2 C:\Users\lluqu\Documents\Proyectos\ConversorCSVEnergiaXXI\Android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.energiaxxi.conversor.test.app-merged_res-3 C:\Users\lluqu\Documents\Proyectos\ConversorCSVEnergiaXXI\Android\app\build\intermediates\merged_res\debugAndroidTest

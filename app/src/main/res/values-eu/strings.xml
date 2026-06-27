@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CSV Energia XXI Bihurgailua</string>
+    <string name="btn_select_csv">CSV fitxategia hautatu</string>
+    <string name="btn_convert">Bihurtu</string>
+    <string name="lbl_method">Lortze-metodoa</string>
+    <string name="option_real">Benetakoa</string>
+    <string name="option_estimated">Estimatua</string>
+    <string name="desc_real">Kontagailu adimendunaren irakurketa erreala</string>
+    <string name="desc_estimated">Banatzaileak estimatutako neurketa</string>
+    <string name="msg_success">Fitxategia bihurtu eta gorde da</string>
+    <string name="msg_select_file_first">Lehenik CSV fitxategi bat hautatu</string>
+    <string name="msg_processing">Prozesatzen…</string>
+    <string name="error_parse">Errorea fitxategia irakurtzean</string>
+    <string name="error_no_data">Ez da kontsumo-daturik aurkitu</string>
+    <string name="validation_title">Erroreak aurkitu dira</string>
+    <string name="validation_continue">Jarraitu egun baliodunekin</string>
+    <string name="validation_cancel">Utzi</string>
+    <string name="validation_clean_days">Egun baliodunak detektatuak: %1$s — %2$s (%3$d egun)</string>
+    <string name="validation_error_missing_day">%1$s eguna falta da</string>
+    <string name="validation_error_missing_hour">%1$s egunak ez du %2$d orduko erregistrorik</string>
+    <string name="validation_error_duplicate_hour">%1$s egunak bikoiztutako erregistroak ditu %2$d ordurako</string>
+    <string name="validation_days_to_remove">Ezabatuko diren egunak:</string>
+    <string name="validation_days_to_keep">Gordeko diren egunak:</string>
+    <string name="lbl_language">Hizkuntza</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor CSV Energía XXI</string>
+    <string name="btn_select_csv">Seleccionar fichero CSV</string>
+    <string name="btn_convert">Convertir</string>
+    <string name="lbl_method">Método de obtención</string>
+    <string name="option_real">Real</string>
+    <string name="option_estimated">Estimado</string>
+    <string name="desc_real">Lectura real del contador inteligente</string>
+    <string name="desc_estimated">Medida estimada por la distribuidora</string>
+    <string name="msg_success">Archivo convertido guardado correctamente</string>
+    <string name="msg_select_file_first">Selecciona un fichero CSV primero</string>
+    <string name="msg_processing">Procesando…</string>
+    <string name="error_parse">Error al leer el fichero</string>
+    <string name="error_no_data">No se encontraron datos de consumo</string>
+    <string name="validation_title">Errores encontrados</string>
+    <string name="validation_continue">Continuar con días válidos</string>
+    <string name="validation_cancel">Cancelar</string>
+    <string name="validation_clean_days">Días válidos detectados: %1$s — %2$s (%3$d días)</string>
+    <string name="validation_error_missing_day">Falta el día %1$s</string>
+    <string name="validation_error_missing_hour">El día %1$s no tiene registro para la hora %2$d</string>
+    <string name="validation_error_duplicate_hour">El día %1$s tiene registros duplicados para la hora %2$d</string>
+    <string name="validation_days_to_remove">Días que se eliminarán:</string>
+    <string name="validation_days_to_keep">Días que se conservarán:</string>
+    <string name="lbl_language">Idioma</string>
+</resources>

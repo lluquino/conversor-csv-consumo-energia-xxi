@@ -1,0 +1,10 @@
+Conversor de ficheros CSV de consumo eléctrico del formato de la distribuidora al formato requerido por servicios externos.
+
+Características:
+- Selecciona el fichero CSV de consumo
+- Elige entre método real (R) o estimado (E)
+- Validación completa de datos: detección de días incompletos, horas faltantes
+- Conversión automática de Wh a kWh
+- Soporte multilingüe: Español, Catalán, Gallego, Euskera, Leonés y Aranés
+- Sin permisos de Internet ni datos personales
+- Código abierto (GPL-3.0)

@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+string app_name
+string btn_convert
+string btn_select_csv
+string desc_estimated
+string desc_real
+string error_no_data
+string error_parse
+string lbl_language
+string lbl_method
+string msg_processing
+string msg_select_file_first
+string msg_success
+string option_estimated
+string option_real
+string validation_cancel
+string validation_clean_days
+string validation_continue
+string validation_days_to_keep
+string validation_days_to_remove
+string validation_error_duplicate_hour
+string validation_error_missing_day
+string validation_error_missing_hour
+string validation_title

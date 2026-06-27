@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertidor CSV Energia XXI</string>
+    <string name="btn_select_csv">Seleccionar un fichèr CSV</string>
+    <string name="btn_convert">Convertir</string>
+    <string name="lbl_method">Metòd d\'obtencion</string>
+    <string name="option_real">Reau</string>
+    <string name="option_estimated">Estimat</string>
+    <string name="desc_real">Lectura reau deth compta-d\'energia inteligent</string>
+    <string name="desc_estimated">Mesura estimada peth distribuidor</string>
+    <string name="msg_success">Fichèr convertit guardat correctament</string>
+    <string name="msg_select_file_first">Seleccionatz un fichèr CSV abans</string>
+    <string name="msg_processing">En tractament…</string>
+    <string name="error_parse">Error en legir eth fichèr</string>
+    <string name="error_no_data">Non s\'an trobat dades de consum</string>
+    <string name="validation_title">Errors trobats</string>
+    <string name="validation_continue">Continuar damb dies valids</string>
+    <string name="validation_cancel">Anullar</string>
+    <string name="validation_clean_days">Dies valids detectats: %1$s — %2$s (%3$d dies)</string>
+    <string name="validation_error_missing_day">Manca eth dia %1$s</string>
+    <string name="validation_error_missing_hour">Eth dia %1$s non a registre pes ore %2$d</string>
+    <string name="validation_error_duplicate_hour">Eth dia %1$s a registres duplicats pes ore %2$d</string>
+    <string name="validation_days_to_remove">Dies que s\'eliminaran:</string>
+    <string name="validation_days_to_keep">Dies que es conservaràn:</string>
+    <string name="lbl_language">Lenga</string>
+</resources>

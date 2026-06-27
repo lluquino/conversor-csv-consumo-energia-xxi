@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor CSV Enerxía XXI</string>
+    <string name="btn_convert">Converter</string>
+    <string name="btn_select_csv">Seleccionar ficheiro CSV</string>
+    <string name="desc_estimated">Medida estimada pola distribuidora</string>
+    <string name="desc_real">Lectura real do contador intelixente</string>
+    <string name="error_no_data">Non se atoparon datos de consumo</string>
+    <string name="error_parse">Erro ao ler o ficheiro</string>
+    <string name="lbl_language">Idioma</string>
+    <string name="lbl_method">Método de obtención</string>
+    <string name="msg_processing">Procesando…</string>
+    <string name="msg_select_file_first">Selecciona un ficheiro CSV primeiro</string>
+    <string name="msg_success">Ficheiro convertido gardado correctamente</string>
+    <string name="option_estimated">Estimado</string>
+    <string name="option_real">Real</string>
+    <string name="validation_cancel">Cancelar</string>
+    <string name="validation_clean_days">Días válidos detectados: %1$s — %2$s (%3$d días)</string>
+    <string name="validation_continue">Continuar con días válidos</string>
+    <string name="validation_days_to_keep">Días que se conservarán:</string>
+    <string name="validation_days_to_remove">Días que se eliminarán:</string>
+    <string name="validation_error_duplicate_hour">O día %1$s ten rexistros duplicados para a hora %2$d</string>
+    <string name="validation_error_missing_day">Falta o día %1$s</string>
+    <string name="validation_error_missing_hour">O día %1$s non ten rexistro para a hora %2$d</string>
+    <string name="validation_title">Erros atopados</string>
+</resources>

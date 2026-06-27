@@ -1,0 +1,1 @@
+Convierte ficheros CSV de consumo eléctrico al formato requerido por servicios externos.

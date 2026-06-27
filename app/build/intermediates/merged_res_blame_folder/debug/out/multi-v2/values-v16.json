@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.energiaxxi.conversor.app-mergeDebugResources-48:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lluqu\\.gradle\\caches\\9.0-milestone-1\\transforms\\d4fdbf922b9ff071895dff5b21ff39bc\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lluqu\\.gradle\\caches\\9.0-milestone-1\\transforms\\9db2ae66dd4f882656818b50bb717962\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
