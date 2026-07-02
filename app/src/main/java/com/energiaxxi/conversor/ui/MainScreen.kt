@@ -268,6 +268,14 @@ fun MainScreen() {
                 )
             }
 
+            if (parsedData != null) {
+                Spacer(Modifier.height(12.dp))
+                DataPreview(
+                    records = parsedData!!.records,
+                    cups = parsedData!!.cups
+                )
+            }
+
             Spacer(Modifier.height(24.dp))
 
             Button(
