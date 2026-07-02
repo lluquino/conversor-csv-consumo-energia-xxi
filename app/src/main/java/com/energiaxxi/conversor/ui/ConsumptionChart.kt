@@ -119,6 +119,7 @@ private fun DailyChart(dates: List<String>, grouped: Map<String, List<HourlyReco
             }
 
             val textSize = 10.sp
+            val wDp = totalWidth / barCount.coerceAtLeast(1)
             Row(
                 modifier = Modifier
                     .offset(y = chartHeight)
@@ -126,12 +127,11 @@ private fun DailyChart(dates: List<String>, grouped: Map<String, List<HourlyReco
                     .padding(top = 4.dp)
             ) {
                 dates.forEachIndexed { idx, date ->
-                    val w = size.width / barCount.coerceAtLeast(1)
                     val day = formatDateShort(date)
                     Text(
                         text = day,
                         fontSize = textSize,
-                        modifier = Modifier.width(w),
+                        modifier = Modifier.width(wDp),
                         color = MaterialTheme.colorScheme.onSurfaceVariant
                     )
                 }
