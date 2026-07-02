@@ -1,4 +1,4 @@
-#Sat Jun 27 18:52:05 CEST 2026
+#Sat Jun 27 19:28:23 CEST 2026
 base.0=C\:\\Users\\lluqu\\Documents\\Proyectos\\ConversorCSVEnergiaXXI\\Android\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
 path.0=0/classes.dex
 renamed.0=classes.dex

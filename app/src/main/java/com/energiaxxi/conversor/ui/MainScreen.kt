@@ -206,6 +206,11 @@ fun MainScreen() {
                 )
             }
 
+            if (parsedData != null) {
+                Spacer(Modifier.height(8.dp))
+                ConsumptionChart(records = parsedData!!.records)
+            }
+
             Spacer(Modifier.height(24.dp))
 
             Text(
@@ -265,6 +270,14 @@ fun MainScreen() {
                     style = MaterialTheme.typography.bodyMedium,
                     textAlign = TextAlign.Center,
                     modifier = Modifier.padding(top = 8.dp)
+                )
+            }
+
+            if (parsedData != null) {
+                Spacer(Modifier.height(12.dp))
+                DataPreview(
+                    records = parsedData!!.records,
+                    cups = parsedData!!.cups
                 )
             }
 
