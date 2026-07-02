@@ -206,6 +206,11 @@ fun MainScreen() {
                 )
             }
 
+            if (parsedData != null) {
+                Spacer(Modifier.height(8.dp))
+                ConsumptionChart(records = parsedData!!.records)
+            }
+
             Spacer(Modifier.height(24.dp))
 
             Text(
